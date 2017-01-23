@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Programming for Data Science
+tagline:          'A Jekyll theme'
+description:      'Teaching data scientists the tools they need to use computers to do data science'
+url:              http://jarrah42.github.io/cds-programming/
+baseurl:          /
+
+author:
+  name:           'Greg Watson'
+
+github:
+  repo:           https://github.com/jarrah42/cds-programming/tree/master
+
+gems:
+  - jekyll-redirect-from

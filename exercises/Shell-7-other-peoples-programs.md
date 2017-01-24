@@ -16,9 +16,9 @@ number of individuals.
 Download the data files using the `curl` command:
 
 ```
-curl -O http://www.programmingforbiologists.org/data/data_drycanyon_2013.txt
-curl -O http://www.programmingforbiologists.org/data/data_greencanyon_2013.txt
-curl -O http://www.programmingforbiologists.org/data/data_logancanyon_2013.txt
+curl -O {{ site.github.url }}/data/data_drycanyon_2013.txt
+curl -O {{ site.github.url }}/data/data_greencanyon_2013.txt
+curl -O {{ site.github.url }}/data/data_logancanyon_2013.txt
 ```
 
 We want to count the total number of individuals of each species that were seen
@@ -27,7 +27,7 @@ already written some code that does this.  Instead of rewriting the code
 ourselves we can simply add it to a pipeline. Let's go ahead and download the
 file:
 
-`curl -O http://www.programmingforbiologists.org/code/species_counts.py`
+`curl -O {{ site.github.url }}/code/species_counts.py`
 
 To run this code we need to tell the shell to run it using python, which we do
 by giving it the name of the program that will run it, then the name of our

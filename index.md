@@ -7,7 +7,7 @@ This is the website for the Center for Data Science's Python programming courses
 At the moment there are four courses being taught during the Fall/Spring semesters.
 
 * [DS-GA 1007 Programming for Data Science]({{ page.url | prepend: site.github.url }}/programming)
-* [DS-GA 3001 Advanced Python for Data Science](/advanced)
+* [DS-GA 3001 Advanced Python for Data Science]({{ page.url | prepend: site.github.url }}/advanced)
 
 The goal of these courses is to teach data scienctists how to use computers more
 effectively to make their research easier. We avoid a lot of the theory that is

@@ -7,11 +7,13 @@ redirect_from: /advanced-programming/
 Instructor: [Dr. Gregory Watson]
 (greg.watson@nyu.edu)
 
-* [Syllabus](/syllabus/advanced-syllabus)
-* [Schedule](/syllabus/advanced-schedule)
-* [Assignments](/assignments)
-* [Material](/material)
-* [Setup](/computer-setup)
+* [Syllabus]({{ page.url | prepend: site.github.url }}syllabus/advanced-syllabus)
+* [Schedule]({{ page.url | prepend: site.github.url }}syllabus/advanced-schedule)
+{% comment %}
+* [Assignments]({{ page.url | prepend: site.github.url }}assignments)
+* [Material]({{ page.url | prepend: site.github.url }}material)
+* [Setup]({{ page.url | prepend: site.github.url }}computer-setup)
+{% endcomment %}
 
 Computers are becoming increasingly essential to the study of
 all aspects of biology and an increasingly large number of biologists spend a

@@ -9,14 +9,14 @@ permalink:        pretty
 title:            Programming for Data Science
 tagline:          'A Jekyll theme'
 description:      'Teaching data scientists the tools they need to use computers to do data science'
-url:              http://jarrah42.github.io/
-baseurl:          /cds
+url:              http://nyu-cds.github.io/
+baseurl:          /courses
 
 author:
   name:           'Greg Watson'
 
 github:
-  repo:           https://github.com/jarrah42/cds/tree/master
+  repo:           https://github.com/nyu-cds/courses/tree/master
 
 gems:
   - jekyll-redirect-from

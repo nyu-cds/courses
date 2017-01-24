@@ -35,7 +35,7 @@ be very difficult to set up appointments less than 24 hours in advance.*
 
 #### Text Books
 
-The following texts are required for the course:
+There is no primary textbook for the course. The following texts provide very useful information:
 
 * Learning Python, 5th Edition by Mark Lutz, O'Reilly Media, 2013. ISBN 978-1-4493-5573-9
 * Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython by Wes McKinny, O'Reilly Media, 2012. ISBN 978-1-4493-1979-3

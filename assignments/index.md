@@ -6,7 +6,7 @@ redirect_from:
   -  /assignments-advanced/
 ---
 
-### Programming Assignments
+### Programming with Python Assignments
 
 * [Assignment 1]({{ site.github.url }}/assignments/programming-1)
 * [Assignment 2]({{ site.github.url }}/assignments/programming-2)

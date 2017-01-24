@@ -18,7 +18,8 @@ computing. In particular the course will cover:
 * The pandas data analysis library, including reading and writing of CSV files
 * The Jupyter and PyDev development environments
 * The Matplotlib 2D plotting library 
-* Understanding the shell, using Git and GitHub
+* Understanding the shell
+* Using Git and GitHub
 * Best-practice software engineering techniques
 
 The course will be based on the excellent [Software Carpentry](http://software-carpentry.org/) 

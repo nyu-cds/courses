@@ -4,8 +4,7 @@ title: Programming for Data Science
 redirect_from: /python-programming/
 ---
 
-Instructor: [Dr. Gregory Watson]
-(greg.watson@nyu.edu)
+Instructor: [Dr. Gregory Watson](greg.watson@nyu.edu)
 
 * [Syllabus]({{ site.github.url }}/syllabus/programming-syllabus)
 

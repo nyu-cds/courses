@@ -15,7 +15,7 @@ redirect_from: /schedule-advanced/
 * [Secure Shell](https://github.com/swcarpentry/bc/blob/master/intermediate/shell/02-ssh.md)
 * [Job Control](https://github.com/swcarpentry/bc/blob/master/intermediate/shell/04-job.md)
 
-[Assignment 1](/assignments/advanced-1/)
+[Assignment 1]({{ site.github.url }}/assignments/advanced-1/)
 
 ### Week 2: Version Control
 
@@ -25,7 +25,7 @@ redirect_from: /schedule-advanced/
 * [Branching](https://www.atlassian.com/git/tutorials/using-branches)
 * [GitHub Flow](https://guides.github.com/introduction/flow/index.html)
 
-[Assignment 2](/assignments/advanced-2/)
+[Assignment 2]({{ site.github.url }}/assignments/advanced-2/)
 
 ### Week 3: Programming Basics in Python
 

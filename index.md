@@ -16,6 +16,6 @@ practical side of programming that is necessary for conducting research. In
 other words, the purpose of these courses is to teach you how to drive the car,
 not prepare you to be a mechanic.
 
-These course actively integrate
+These courses actively integrate
 with [Software Carpentry](http://software-carpentry.org) and
 [Data Carpentry](http://datacarpentry.org).

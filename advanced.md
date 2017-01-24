@@ -10,23 +10,24 @@ Instructor: [Dr. Gregory Watson]
 * [Syllabus]({{ site.github.url }}/syllabus/advanced-syllabus)
 * [Schedule]({{ site.github.url }}/syllabus/advanced-schedule)
 
-Computers are becoming increasingly essential to the study of
-all aspects of biology and an increasingly large number of biologists spend a
-substantial portion of their time writing computer programs to analyze data and
-simulate the outcomes of biological models.  However, most biologists have
-little formal training in software development, which means that we spend longer
-than necessary writing our software, it contains more bugs, and it is less
-useful to other scientists than it should be. This course will teach the
-concepts, skills, and tools needed to help you build software more productively.
-It will be based on the excellent
-[Software Carpentry](http://software-carpentry.org/) curriculum and will include
-training in advanced areas including object oriented programming, version
-control, automated testing, using a debugger, building and interacting with
-databases using SQL, and using the shell. The course will take a
+Python is now being widely used in data science and scientific computing. 
+It is easy to learn, and it has a large number of libraries available that 
+do everything from web scraping to image manipulation to accessing databases. 
+Two powerful libraries for manipulating data and performing numerical 
+computations are the pandas and NumPy packages, and these provide a significant 
+performance boost over pure Python methods. However, when the data sets 
+become very large or very computationally intensive operations need to be 
+performed, the limitations of Python and these libraries becomes apparent. 
+
+In this course, we will examine a range of advanced techniques for improving 
+the performance of Python programs, including the use of parallel computation 
+and GPU acceleration. We will also investigate how Python can be used for big 
+data analysis using frameworks such as Apache Hadoop and Apache Spark. Students 
+will have the opportunity to employ these techniques and gain hands-on
+experience developing advanced Python applications.
+
+The course will be based on the excellent [Software Carpentry](http://software-carpentry.org/) 
+curriculum and will incorporate pair-programming and live coding. The course will take a
 student-centered, active learning, approach to teaching this material. Class
-will typically consist of a short introductions to programming/database
-techniques and associated biological problems, followed by hands on computing
-exercises. The course will be taught using Python for computer programming and
-SQLite for database management. Students should have at least one prior
-programming course (or equivalent knowledge of programming), and understand
-loops (for and while), conditionals (if/then/else), functions, and arrays.
+will typically consist of a short introductions to programming techniquess, followed by 
+hands on computing exercises.

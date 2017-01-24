@@ -9,11 +9,6 @@ Instructor: [Dr. Gregory Watson]
 
 * [Syllabus]({{ site.github.url }}/syllabus/advanced-syllabus)
 * [Schedule]({{ site.github.url }}/syllabus/advanced-schedule)
-{% comment %}
-* [Assignments]({{ site.github.url }}/assignments)
-* [Material]({{ site.github.url }}/material)
-* [Setup]({{ site.github.url }}/computer-setup)
-{% endcomment %}
 
 Computers are becoming increasingly essential to the study of
 all aspects of biology and an increasingly large number of biologists spend a

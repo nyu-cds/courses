@@ -7,13 +7,12 @@ redirect_from: /schedule-advanced/
 ### Week 1 The Shell
 
 * [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/)
-* [Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/)
-* [Creating Things](http://swcarpentry.github.io/shell-novice/03-create/)
+* [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/)
+* [Working With Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/)
 * [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/)
 * [Loops](http://swcarpentry.github.io/shell-novice/05-loop/)
 * [Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/)
-* [Secure Shell](https://github.com/swcarpentry/bc/blob/master/intermediate/shell/02-ssh.md)
-* [Job Control](https://github.com/swcarpentry/bc/blob/master/intermediate/shell/04-job.md)
+* [Finding Things](http://swcarpentry.github.io/shell-novice/07-find/)
 
 [Assignment 1]({{ site.github.url }}/assignments/advanced-1/)
 

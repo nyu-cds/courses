@@ -18,11 +18,15 @@ redirect_from: /schedule-advanced/
 
 ### Week 2: Version Control
 
-* [Introduction](http://swcarpentry.github.io/git-novice/)
+* [What is Version Control?](http://swcarpentry.github.io/git-novice/01-basics/)
+* [Setting Up Git](http://swcarpentry.github.io/git-novice/02-setup/)
+* [Creating a Repository](http://swcarpentry.github.io/git-novice/03-create/)
+* [Tracking Changes](http://swcarpentry.github.io/git-novice/04-changes/)
+* [Exploring History](http://swcarpentry.github.io/git-novice/05-history/)
+* [Ignoring Things](http://swcarpentry.github.io/git-novice/06-ignore/)
+* [Remotes in GitHub](http://swcarpentry.github.io/git-novice/07-github/)
 * [Collaborating](http://swcarpentry.github.io/git-novice/08-collab/)
 * [Conflicts](http://swcarpentry.github.io/git-novice/09-conflict/)
-* [Branching](https://www.atlassian.com/git/tutorials/using-branches)
-* [GitHub Flow](https://guides.github.com/introduction/flow/index.html)
 
 [Assignment 2]({{ site.github.url }}/assignments/advanced-2/)
 

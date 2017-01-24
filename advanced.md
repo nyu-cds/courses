@@ -4,7 +4,7 @@ title: Advanced Python for Data Science
 redirect_from: /advanced-programming/
 ---
 
-Instructor: [Dr. Gregory Watson](greg.watson@nyu.edu)
+Instructor: [Dr. Gregory Watson](mailto:greg.watson@nyu.edu)
 
 * [Syllabus]({{ site.github.url }}/syllabus/advanced-syllabus)
 * [Schedule]({{ site.github.url }}/syllabus/advanced-schedule)

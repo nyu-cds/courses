@@ -4,7 +4,7 @@ title: Schedule - Advanced Python for Data Science
 redirect_from: /schedule-advanced/
 ---
 
-### Week 1 The Shell
+### Week 1: The Shell
 
 * [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/)
 * [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/)

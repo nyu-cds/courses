@@ -19,6 +19,7 @@ Email (best way to contact me):
 #### Meeting Times & Location
 
 Lecture: Wed 3:30 pm – 5:10 pm, SILV 405
+
 Lab: Thu 7:45 pm - 8:35 pm, 60 Fifth Ave, 110
 
 #### Office Hours
@@ -55,7 +56,7 @@ as our primary material.
 #### Website
 
 The syllabus and other relevant class information and resources will be posted
-at [{{ site.url }}]({{ site.url }}).
+at [{{ site.github.url }}]({{ site.github.url }}).
 Changes to the schedule will be posted to this site so please try to check it
 periodically for updates.
 

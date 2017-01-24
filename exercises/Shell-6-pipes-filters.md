@@ -15,7 +15,7 @@ number of individuals.
 
 Download one of these files using the `curl` command:
 
-`curl -O http://www.programmingforbiologists.org/data/data_drycanyon_2013.txt`
+`curl -O {{ site.github.url }}/data/data_drycanyon_2013.txt`
 
 If we wanted to find the least common species in the data file and store that
 information we could do something like:

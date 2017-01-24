@@ -20,4 +20,4 @@ Do the following using the Linux/Mac shell or GitBash on Windows:
     secret so easily and change the name of your file to
     ornithology_notes.txt. No one would ever want to look at that.
 6.  Make a backup of this file by creating a copy of it called
-    `ornithology_notes_backup.txt`.
+    `ornithology_notes_backup.txt`

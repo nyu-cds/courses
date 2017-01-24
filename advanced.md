@@ -7,12 +7,12 @@ redirect_from: /advanced-programming/
 Instructor: [Dr. Gregory Watson]
 (greg.watson@nyu.edu)
 
-* [Syllabus]({{ site.github.url }}syllabus/advanced-syllabus)
-* [Schedule]({{ site.github.url }}syllabus/advanced-schedule)
+* [Syllabus]({{ site.github.url }}/syllabus/advanced-syllabus)
+* [Schedule]({{ site.github.url }}/syllabus/advanced-schedule)
 {% comment %}
-* [Assignments]({{ site.github.url }}assignments)
-* [Material]({{ site.github.url }}material)
-* [Setup]({{ site.github.url }}computer-setup)
+* [Assignments]({{ site.github.url }}/assignments)
+* [Material]({{ site.github.url }}/material)
+* [Setup]({{ site.github.url }}/computer-setup)
 {% endcomment %}
 
 Computers are becoming increasingly essential to the study of

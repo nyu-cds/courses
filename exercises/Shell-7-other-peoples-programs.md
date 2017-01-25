@@ -42,7 +42,7 @@ on the total number of individuals:
 
 This is great for a single datafile with a particular name, but we've been
 collecting data on birds from a number of different places and we'd like to
-conduct all of these analyses simultaneously. Write a simple for loop that loops
+conduct all of these analyses simultaneously. Write a simple `for` loop that loops
 over all of the files in the current directory that have the general form of
 `data_*.txt`, prints out the name of the datafile, and then runs
 `species_counts.py` on the datafile. Save this in a text file called `all_species_counts.sh`.

@@ -1,4 +1,6 @@
-Download and install the [Anaconda Scientific Python Distribution](http://continuum.io/downloads)
+#### All operating systems
+
+* Download and install the [Anaconda Scientific Python Distribution](http://continuum.io/downloads)
 
 #### Windows
 

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Computer Setup
+---
+
 #### All operating systems
 
 * Download and install the [Anaconda Scientific Python Distribution](http://continuum.io/downloads)

@@ -8,6 +8,7 @@ Instructor: [Dr. Gregory Watson](mailto:greg.watson@nyu.edu)
 
 * [Syllabus]({{ site.github.url }}/syllabus/advanced-syllabus)
 * [Schedule]({{ site.github.url }}/syllabus/advanced-schedule)
+* [Setup]({{ site.github.url }}/advanced-setup)
 
 Python is now being widely used in data science and scientific computing. 
 It is easy to learn, and it has a large number of libraries available that 

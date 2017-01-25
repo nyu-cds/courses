@@ -75,8 +75,8 @@ emails sent to this list.
 Grading for this course will be based on successful completion of the weekly
 assignments (100%).
 
-There will be weekly programming assignments conducted during the Lab and submitted
-prior to the end of the Lab session. Assignments will be submitted using GitHub
+There will be weekly programming assignments. Assignments are due Sunday night
+by 11:55pm Eastern Time. Assignments will be submitted using GitHub
 (after we've learned about it in class). The lowest scoring assignment will be
 dropped. One problem from each assignment (selected at my discretion after the
 assignments have been submitted) will receive a thorough code review and a

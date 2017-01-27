@@ -10,9 +10,27 @@ redirect_from: /schedule-advanced/
 
 ### Week 2: [Version Control](https://swcarpentry.github.io/git-novice)
 
+Only the following sections will be covered:
+	
+* [Automated Version Control](https://swcarpentry.github.io/git-novice/01-basics/)
+* [Setting Up Git](https://swcarpentry.github.io/git-novice/02-setup/)
+* [Creating a Repository](https://swcarpentry.github.io/git-novice/03-create/)
+* [Tracking Changes](https://swcarpentry.github.io/git-novice/04-changes/)
+* [Exploring History](https://swcarpentry.github.io/git-novice/05-history/)
+* [Ignoring Things](https://swcarpentry.github.io/git-novice/06-ignore/)
+* [Remotes in GitHub](https://swcarpentry.github.io/git-novice/07-github/)
+* [Collaborating](https://swcarpentry.github.io/git-novice/08-collab/)
+
 [Assignment 2]({{ site.github.url }}/assignments/advanced-2/)
 
 ### Week 3: [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation)
+
+Only the following sections will be covered:
+
+* [Errors and Exceptions](https://swcarpentry.github.io/python-novice-inflammation/07-errors/)
+* [Defensive Programming](https://swcarpentry.github.io/python-novice-inflammation/08-defensive/)
+* [Debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/)
+* [Command-Line Programs](https://swcarpentry.github.io/python-novice-inflammation/10-cmdline/)
 
 [Assignment 3]({{ site.github.url }}/assignments/advanced-3/)
 

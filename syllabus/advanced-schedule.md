@@ -4,41 +4,19 @@ title: Schedule - Advanced Python for Data Science
 redirect_from: /schedule-advanced/
 ---
 
-### Week 1: [The Shell](http://swcarpentry.github.io/shell-novice)
+### Week 1: [The Shell](https://swcarpentry.github.io/shell-novice)
 
 [Assignment 1]({{ site.github.url }}/assignments/advanced-1/)
 
-### Week 2: Version Control
-
-* [What is Version Control?](http://swcarpentry.github.io/git-novice/01-basics/)
-* [Setting Up Git](http://swcarpentry.github.io/git-novice/02-setup/)
-* [Creating a Repository](http://swcarpentry.github.io/git-novice/03-create/)
-* [Tracking Changes](http://swcarpentry.github.io/git-novice/04-changes/)
-* [Exploring History](http://swcarpentry.github.io/git-novice/05-history/)
-* [Ignoring Things](http://swcarpentry.github.io/git-novice/06-ignore/)
-* [Remotes in GitHub](http://swcarpentry.github.io/git-novice/07-github/)
-* [Collaborating](http://swcarpentry.github.io/git-novice/08-collab/)
-* [Conflicts](http://swcarpentry.github.io/git-novice/09-conflict/)
+### Week 2: [Version Control](https://swcarpentry.github.io/git-novice)
 
 [Assignment 2]({{ site.github.url }}/assignments/advanced-2/)
 
-### Week 3: Programming Basics in Python
-
-* [Introduction](http://nbviewer.ipython.org/github/swcarpentry/bc/blob/master/intermediate/python/01-intro-python.ipynb)
-* [Modularization & Documentation](http://nbviewer.ipython.org/urls/raw.github.com/swcarpentry/bc/master/intermediate/python/02-modularization-documentation.ipynb)
-* [First Class Functions](http://v4.software-carpentry.org/python/funcobj.html)
-
-The above is a fairly rapid overview. If you'd like a little more detail take a
-look at:
-
-* [Intro to Python: Analyzing Patient Data](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
-* [Intro to Python: Creating Functions](http://swcarpentry.github.io/python-novice-inflammation/06-func/)
-* [Intro to Python: Repeating Actions with Loops](http://swcarpentry.github.io/python-novice-inflammation/02-loop/)
-* [Intro to Python: Making Choices](http://swcarpentry.github.io/python-novice-inflammation/05-cond/)
+### Week 3: [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation)
 
 [Assignment 3]({{ site.github.url }}/assignments/advanced-3/)
 
-### Week 4: Python Performance Tips
+### Week 4: [Python Performance Tips](https://nyu-cds.github.io/python-performance-tips)
 
 [Assignment 4]({{ site.github.url }}/assignments/advanced-4/)
 

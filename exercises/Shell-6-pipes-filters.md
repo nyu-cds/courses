@@ -29,5 +29,5 @@ Now we want to get the most common species at the site. You can do this using
 the `tail` command. Since we don't need the intermediate `sorted_counts.txt`
 file, use a pipe instead of creating the intermediate file.
 
-Save both the curl command and the one line command for storing the least common
+Save both the curl command and the one line command for storing the most common
 species in a text file called `get_most_common_species.sh`.

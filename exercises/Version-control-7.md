@@ -4,14 +4,14 @@ title: Version Control 7
 ---
 
 This is a follow up question to
-[Version Control 6](/exercises/Version-control-6).
+[Version Control 6]({{ site.github.url }}/exercises/Version-control-6).
 
 You and your team member decide to split up the work that needs to be done. You should
 each work in your own local repository, then share the resulting files by committing them 
 and pushing them to GitHub.
 
 The six data files required for the project are available from `{{ site.github.url }}/data`
-and are called 'areas1.txt' througn 'areas6.txt'. One team member showld download all of 
+and are called `areas1.txt` througn `areas6.txt`. One team member should download all of 
 these files using the `curl` command, commit them to their repository, and push to GitHub.
 
 While the first team member is downloading the data files, the second team member

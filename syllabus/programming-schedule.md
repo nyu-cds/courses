@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule - Programming For Data Science
-redirect_from: /schedule-intro/
+redirect_from: /schedule-programming/
 ---
 
 ### Week 1: Jupyter Notebooks

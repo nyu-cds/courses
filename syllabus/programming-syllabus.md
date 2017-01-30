@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus - Programming for Data Science
-redirect_from: /syllabus-advanced/
+redirect_from: /syllabus-programming/
 ---
 
 #### DS-GA 1007, 3 Credits, Syllabus and Schedule, Fall 2016

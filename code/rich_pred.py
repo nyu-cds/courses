@@ -52,4 +52,4 @@ sar_parameters = [[20.81, 0.1896], [1.35, 0.1524, 0.0081],
 
 if __name__ == "__main__":
     for area in fileinput.input():
-        print area.strip() + ',' + str(get_sar_estimate(float(area), sar_eqs, sar_parameters))
+        print(area.strip() + ',' + str(get_sar_estimate(float(area), sar_eqs, sar_parameters)))

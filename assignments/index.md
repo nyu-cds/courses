@@ -13,4 +13,4 @@ redirect_from:
 ### Advanced Python Assignments
 
 * [Assignment 1]({{ site.github.url }}/assignments/advanced-1)
-
+* [Assignment 2]({{ site.github.url }}/assignments/advanced-2)

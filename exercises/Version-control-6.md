@@ -3,7 +3,7 @@ layout: exercise
 title: Version Control 6
 ---
 
-*Version control exercises 6-9 assume that you are working in pairs to add and
+*These exercises assume that you are working in pairs to add and
  modify files in a common repository. The files are available in the
  [`data`](https://github.com/nyu-cds/courses/tree/master/data) and
  [`code`](https://github.com/nyu-cds/courses/tree/master/code) directories of

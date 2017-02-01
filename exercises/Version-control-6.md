@@ -21,9 +21,10 @@ Since you're going to share a repository, you need to agree on some way to commu
 with each other. You can choose anything you want: email, IM, GitHub Issues, etc.
 
 One team member should create the repository under the `nyu-cds` organization on GitHub. 
-Make sure that the second team member has write access  to the repository by choosing 
-the `Settings` tab, then  `Collaborators & teams'. Whoever created the repository 
-will then need to let their team member know that it is available, and both should 
+Make sure that the second team member has write access to the repository by choosing 
+the `Add teams and collaborators` button and adding their username to the Collaborators field. 
+Whoever creates the repository will then need to let their team member know that it is 
+available, and both should 
 clone a copy to their computers.
 
 A programmer has whipped up a small python script called `rich_pred.py` that

@@ -14,3 +14,4 @@ redirect_from:
 
 * [Assignment 1]({{ site.github.url }}/assignments/advanced-1)
 * [Assignment 2]({{ site.github.url }}/assignments/advanced-2)
+* [Assignment 3]({{ site.github.url }}/assignments/advanced-3)

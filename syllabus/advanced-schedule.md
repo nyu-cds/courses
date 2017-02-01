@@ -32,6 +32,15 @@ Only the following sections will be covered:
 * [Debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/)
 * [Command-Line Programs](https://swcarpentry.github.io/python-novice-inflammation/10-cmdline/)
 
+If you need a refresher on Python, please take a look at the following sections:
+
+* [Analyzing Patient Data](https://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
+* [Repeating Actions with Loops](https://swcarpentry.github.io/python-novice-inflammation/02-loop/)
+* [Storing Multiple Values in Lists](https://swcarpentry.github.io/python-novice-inflammation/03-lists/)
+* [Analyzing Data from Multiple Files](https://swcarpentry.github.io/python-novice-inflammation/04-files/)
+* [Making Choices](https://swcarpentry.github.io/python-novice-inflammation/05-cond/)
+* [Creating Functions](https://swcarpentry.github.io/python-novice-inflammation/06-func/)
+
 [Assignment 3]({{ site.github.url }}/assignments/advanced-3/)
 
 ### Week 4: [Python Performance Tips](https://nyu-cds.github.io/python-performance-tips)

@@ -30,11 +30,12 @@ file called `nbody_opt.py` that contains all of the optimizations you made.
 Put a comment at the top indicating the relative speedup of the optimized version compared to the original version. 
 Calculate the relative speedup (R) as follows:
 
-![]({{ site.github.url }}/public/speedup_1.png
+![]({{ site.github.url }}/public/speedup_1.png)
 
 where
 
-![]({{ site.github.url }}/public/speedup_2.png
-![]({{ site.github.url }}/public/speedup_3.png
+![]({{ site.github.url }}/public/speedup_2.png)
+
+![]({{ site.github.url }}/public/speedup_3.png)
  
 Are you able to get it to run in under 30 seconds?

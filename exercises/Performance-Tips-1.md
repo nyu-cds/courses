@@ -17,23 +17,24 @@ in stages. A first scan of the code reveals a number of potential areas that cou
 * Using local rather than global variables
 * Using data aggregation to reduce loop overheads
 
-As you're a cautious programmer, you decide to address each of these in turn (in any order). This will ensure that
+As you're a cautious programmer, you decide to address each of these in turn. This will ensure that
 it is possible to check the program is still working correctly after each change, and to assess the performance
 improvement that the change achieved. You are also aware that the program has to be maintained by others in the future,
 so you want to make sure that the changes do not make this more difficult, especially if the performance improvement
 is only minor.
 
 For each of these areas, create a new version of `nbody.py` (call them `nbody_1.py`, `nbody_2.py`, etc.) and commit
-them to the repository. At the beginning of each file, put a comment indicating which change made the most improvement,
-second most, etc. Finally, create another file called `nbody_opt.py` that contains all of the optimizations you made.
+them to the repository. You may also add a file with any other optimizations that you find. At the beginning of each 
+file, put a comment indicating if the change made the most improvement, second most, etc. Finally, create another 
+file called `nbody_opt.py` that contains all of the optimizations you made.
 Put a comment at the top indicating the relative speedup of the optimized version compared to the original version. 
-Calculate the relative speedup ($$ R $$) as follows:
+Calculate the relative speedup (R) as follows:
 
-$$ R = L\sub{orig} / L\sub{opt} $$
+![]({{ site.github.url }}/public/speedup_1.png
 
 where
 
-$$ L\sub{orig} = time to run original version $$
-$$ L\sub{opt} = time to run optimized version $$
+![]({{ site.github.url }}/public/speedup_2.png
+![]({{ site.github.url }}/public/speedup_3.png
  
 Are you able to get it to run in under 30 seconds?

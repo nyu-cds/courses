@@ -4,7 +4,7 @@ title: Version Control 8
 ---
 
 This is a follow up question to
-[Version Control 7](/exercises/Version-control-7).
+[Version Control 7]({{ site.github.url }}/exercises/Version-control-7).
 
 Both team members have been working late and sit down to edit `predict_richness.sh`. 
 They both open the file in an editor. One reaches for a cup of coffee, and knocks

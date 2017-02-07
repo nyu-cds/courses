@@ -4,7 +4,7 @@ title: Version Control 9
 ---
 
 This is a follow up question to
-[Version Control 8](/exercises/Version-control-8).
+[Version Control 8]({{ site.github.url }}/exercises/Version-control-8).
 
 A colleague emails one of the team members that some of the parameter values that are being used in `rich_pred.py`
 are incorrect and need to be changed urgently. Unfortunately in their haste, the colleague accidentally 

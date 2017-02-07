@@ -42,27 +42,27 @@ If you need a refresher on Python, please take a look at the
 
 [Assignment 6]({{ site.github.url }}/assignments/advanced-6/)
 
-### Week 7: Introduction to Cython
+### Week 7: Cython
 
 [Assignment 7]({{ site.github.url }}/assignments/advanced-7/)
 
-### Week 8: Introduction to Numba
+### Week 8: Numba
 
 [Assignment 8]({{ site.github.url }}/assignments/advanced-8/)
 
-### Week 9: Introduction to Parallel Programming 1
+### Week 9: Parallel Programming 1
 
 [Assignment 9]({{ site.github.url }}/assignments/advanced-9/)
 
-### Week 10: Introduction to Parallel Programming 2
+### Week 10: Parallel Programming 2
 
 [Assignment 10]({{ site.github.url }}/assignments/advanced-10/)
 
-### Weeks 11: Introduction to Python Multithreading
+### Weeks 11: Python Multithreading
 
 [Assignment 11]({{ site.github.url }}/assignments/advanced-11/)
 
-### Weeks 12: Introduction to GPU Computing
+### Weeks 12: GPU Computing
 
 [Assignment 12]({{ site.github.url }}/assignments/advanced-12/)
 

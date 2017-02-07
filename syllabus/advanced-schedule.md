@@ -23,55 +23,42 @@ Only the following sections will be covered:
 
 [Assignment 2]({{ site.github.url }}/assignments/advanced-2/)
 
-### Week 3: [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation)
+### Week 3: [Python Performance Tips](https://nyu-cds.github.io/python-performance-tips)
 
-Only the following sections will be covered:
-
-* [Errors and Exceptions](https://swcarpentry.github.io/python-novice-inflammation/07-errors/)
-* [Defensive Programming](https://swcarpentry.github.io/python-novice-inflammation/08-defensive/)
-* [Debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/)
-* [Command-Line Programs](https://swcarpentry.github.io/python-novice-inflammation/10-cmdline/)
-
-If you need a refresher on Python, please take a look at the following sections:
-
-* [Analyzing Patient Data](https://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
-* [Repeating Actions with Loops](https://swcarpentry.github.io/python-novice-inflammation/02-loop/)
-* [Storing Multiple Values in Lists](https://swcarpentry.github.io/python-novice-inflammation/03-lists/)
-* [Analyzing Data from Multiple Files](https://swcarpentry.github.io/python-novice-inflammation/04-files/)
-* [Making Choices](https://swcarpentry.github.io/python-novice-inflammation/05-cond/)
-* [Creating Functions](https://swcarpentry.github.io/python-novice-inflammation/06-func/)
+If you need a refresher on Python, please take a look at the 
+[Programming with Python](https://swcarpentry.github.io/python-novice-inflammation) lessons.
 
 [Assignment 3]({{ site.github.url }}/assignments/advanced-3/)
 
-### Week 4: [Python Performance Tips](https://nyu-cds.github.io/python-performance-tips)
+### Week 4: The itertools Module
 
 [Assignment 4]({{ site.github.url }}/assignments/advanced-4/)
 
-### Week 5: The itertools Module
+### Week 5: Python Performance Tuning
 
 [Assignment 5]({{ site.github.url }}/assignments/advanced-5/)
 
-### Week 6: Python Performance Tuning
+### Week 6: NumPy Performance Tips
 
 [Assignment 6]({{ site.github.url }}/assignments/advanced-6/)
 
-### Week 7: NumPy Performance Tips
+### Week 7: Introduction to Cython
 
 [Assignment 7]({{ site.github.url }}/assignments/advanced-7/)
 
-### Week 8: Introduction to Cython
+### Week 8: Introduction to Numba
 
 [Assignment 8]({{ site.github.url }}/assignments/advanced-8/)
 
-### Week 9: Introduction to Numba
+### Week 9: Introduction to Parallel Programming 1
 
 [Assignment 9]({{ site.github.url }}/assignments/advanced-9/)
 
-### Week 10: Introduction to Parallel Programming 1
+### Week 10: Introduction to Parallel Programming 2
 
 [Assignment 10]({{ site.github.url }}/assignments/advanced-10/)
 
-### Week 11: Introduction to Parallel Programming 2
+### Weeks 11: Introduction to Python Multithreading
 
 [Assignment 11]({{ site.github.url }}/assignments/advanced-11/)
 

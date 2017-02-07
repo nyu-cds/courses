@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advanced Python for Data Science Assignment 3
-exercises: ['Basic Python 1', 'Basic Python 2', 'Higher Order Functions 2']
+exercises: ['Performance Tips 1']
 ---
 
 *All assigments beginning with Assignment 3 are to be submitted via GitHub. Create

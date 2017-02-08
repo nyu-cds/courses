@@ -30,46 +30,50 @@ If you need a refresher on Python, please take a look at the
 
 [Assignment 3]({{ site.github.url }}/assignments/advanced-3/)
 
-### Week 4: The itertools Module
+### Week 4: [Effective Code Reviews](https://nyu-cds.github.io/effective-code-reviews)
 
 [Assignment 4]({{ site.github.url }}/assignments/advanced-4/)
 
-### Week 5: Python Performance Tuning
+### Week 5: The itertools Module
 
 [Assignment 5]({{ site.github.url }}/assignments/advanced-5/)
 
-### Week 6: NumPy Performance Tips
+### Week 6: Python Performance Tuning
 
 [Assignment 6]({{ site.github.url }}/assignments/advanced-6/)
 
-### Week 7: Introduction to Cython
+### Week 7: NumPy Performance Tips
 
 [Assignment 7]({{ site.github.url }}/assignments/advanced-7/)
 
-### Week 8: Introduction to Numba
+### Week 8: Introduction to Cython
 
 [Assignment 8]({{ site.github.url }}/assignments/advanced-8/)
 
-### Week 9: Introduction to Parallel Programming 1
+### Week 9: Introduction to Numba
 
 [Assignment 9]({{ site.github.url }}/assignments/advanced-9/)
 
-### Week 10: Introduction to Parallel Programming 2
+### Week 10: Introduction to Parallel Programming 1
 
 [Assignment 10]({{ site.github.url }}/assignments/advanced-10/)
 
-### Weeks 11: Introduction to Python Multithreading
+### Week 11: Introduction to Parallel Programming 2
 
 [Assignment 11]({{ site.github.url }}/assignments/advanced-11/)
 
-### Weeks 12: Introduction to GPU Computing
+### Weeks 12: Introduction to Python Multithreading
 
 [Assignment 12]({{ site.github.url }}/assignments/advanced-12/)
 
-### Weeks 13: CUDA Programming With Numba
+### Weeks 13: Introduction to GPU Computing
 
 [Assignment 13]({{ site.github.url }}/assignments/advanced-13/)
 
-### Week 14: BigData with PySpark
+### Weeks 14: CUDA Programming With Numba
 
 [Assignment 14]({{ site.github.url }}/assignments/advanced-14/)
+
+### Week 15: BigData with PySpark
+
+[Assignment 15]({{ site.github.url }}/assignments/advanced-15/)

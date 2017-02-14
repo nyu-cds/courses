@@ -1,6 +1,6 @@
 ---
 layout: exercise
-title: Version Control 1
+title: Code Reviews 1
 ---
 
 1. Work in groups of three using the repositories you created in Assignment 3.

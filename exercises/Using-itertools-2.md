@@ -2,7 +2,7 @@
 layout: exercise
 title: Using Itertools 2
 ---
-Write a program that takes two arguments 'n' and 'k' and prints all binary strings of length n that contain k zero bits, one
+Write a program that takes two arguments `n` and `k` and prints all binary strings of length `n` that contain `k` zero bits, one
 per line. The program:
 
 * Must be called `binary.py`

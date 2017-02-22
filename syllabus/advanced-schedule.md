@@ -34,7 +34,7 @@ If you need a refresher on Python, please take a look at the
 
 [Assignment 4]({{ site.github.url }}/assignments/advanced-4/)
 
-### Week 5: The itertools Module
+### Week 5: [The itertools Module](https://nyu-cds.github.io/python-itertools)
 
 [Assignment 5]({{ site.github.url }}/assignments/advanced-5/)
 

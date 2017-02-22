@@ -20,4 +20,4 @@ assert binary.bits(5, 4) == {'00001', '00100', '01000', '10000', '00010'}
 ~~~
 {: .python}
 
-Commit the `binary.py` program to the repository you used for `Assignment 3`.
+Commit the `binary.py` program to the repository you used for *Assignment 3*.

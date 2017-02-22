@@ -24,7 +24,7 @@ Lab: Thu 7:45 pm - 8:35 pm, 60 Fifth Ave, 110
 
 #### Office Hours
 
-Times: Tue 1:30 – 3:30 pm or by appointment.
+Times: Wed 2:00 – 3:00 pm or by appointment.
 
 Location: 6th Floor, 60 Fifth Ave
 

@@ -38,7 +38,7 @@ If you need a refresher on Python, please take a look at the
 
 [Assignment 5]({{ site.github.url }}/assignments/advanced-5/)
 
-### Week 6: Python Performance Tuning
+### Week 6: [Python Performance Tuning](https://nyu-cds.github.io/python-performance-tuning)
 
 [Assignment 6]({{ site.github.url }}/assignments/advanced-6/)
 

@@ -42,15 +42,15 @@ If you need a refresher on Python, please take a look at the
 
 [Assignment 6]({{ site.github.url }}/assignments/advanced-6/)
 
-### Week 7: NumPy Performance Tips
+### Week 7: [Cython](https://nyu-cds.github.io/python-cython)
 
 [Assignment 7]({{ site.github.url }}/assignments/advanced-7/)
 
-### Week 8: Cython
+### Week 8: Numba
 
 [Assignment 8]({{ site.github.url }}/assignments/advanced-8/)
 
-### Week 9: Numba
+### Week 9: Python Multithreading
 
 [Assignment 9]({{ site.github.url }}/assignments/advanced-9/)
 
@@ -62,18 +62,14 @@ If you need a refresher on Python, please take a look at the
 
 [Assignment 11]({{ site.github.url }}/assignments/advanced-11/)
 
-### Weeks 12: Python Multithreading
+### Weeks 12: GPU Computing
 
 [Assignment 12]({{ site.github.url }}/assignments/advanced-12/)
 
-### Weeks 13: GPU Computing
+### Weeks 13: GCUDA Programming With Numba
 
 [Assignment 13]({{ site.github.url }}/assignments/advanced-13/)
 
-### Weeks 14: CUDA Programming With Numba
+### Weeks 14: BigData with PySpark
 
 [Assignment 14]({{ site.github.url }}/assignments/advanced-14/)
-
-### Week 15: BigData with PySpark
-
-[Assignment 15]({{ site.github.url }}/assignments/advanced-15/)

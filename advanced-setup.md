@@ -12,7 +12,7 @@ title: Computer Setup
 * Download and install [Git for Windows](http://msysgit.github.io/)
 * Download and install [Git for Windows SDK](https://github.com/git-for-windows/build-extra/releases/download/git-sdk-1.0.3/git-sdk-installer-1.0.3-32.7z.exe)
 * Download and install the [Software Carpentry Windows Installer](http://files.software-carpentry.org/SWCarpentryInstaller.exe)
-* Download the [Cython helper tool]()
+* Download the [Cython helper tool]({{ site.github.url }}/code/setup_cython.py)
 
 #### Mac (OS X)
 

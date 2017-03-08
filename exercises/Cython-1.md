@@ -10,7 +10,10 @@ to the following:
 * Use C types in function parameter declarations
 * Declare NumPy arrays if you used them, and use efficient indexing
 
-Place the resulting code in a file called `nbody_cython.pyx`. Use the following commands from IPython or Jupyter in order to load the `nbody_cython.pyx` module:
+Place the resulting code in a file called `nbody_cython.pyx`. 
+
+Cython provides a module called `pyximport` for importing `.pyx` files directly. This module will load and compile the Cython code automatically
+for you. Use the following commands from IPython or Jupyter in order to load the `nbody_cython.pyx` module:
 
 ~~~
 %load_ext Cython

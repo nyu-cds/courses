@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Advanced Python for Data Science Assignment 6
+title: Advanced Python for Data Science Assignment 7
 exercises: ['Cython 1']
 ---
 

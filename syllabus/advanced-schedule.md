@@ -46,7 +46,7 @@ If you need a refresher on Python, please take a look at the
 
 [Assignment 7]({{ site.github.url }}/assignments/advanced-7/)
 
-### Week 8: Numba
+### Week 8: [Numba](https://nyu-cds.github.io/python-numba)
 
 [Assignment 8]({{ site.github.url }}/assignments/advanced-8/)
 

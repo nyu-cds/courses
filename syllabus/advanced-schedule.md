@@ -50,7 +50,7 @@ If you need a refresher on Python, please take a look at the
 
 [Assignment 8]({{ site.github.url }}/assignments/advanced-8/)
 
-### Week 9: Python Multithreading
+### Week 9: [Python Concurrency](https://nyu-cds.github.io/python-concurrency)
 
 [Assignment 9]({{ site.github.url }}/assignments/advanced-9/)
 

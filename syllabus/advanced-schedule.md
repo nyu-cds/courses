@@ -54,11 +54,11 @@ If you need a refresher on Python, please take a look at the
 
 [Assignment 9]({{ site.github.url }}/assignments/advanced-9/)
 
-### Week 10: Parallel Programming 1
+### Week 10: [Parallel Programming 1](https://nyu-cds.github.io/python-mpi)
 
 [Assignment 10]({{ site.github.url }}/assignments/advanced-10/)
 
-### Week 11: Parallel Programming 2
+### Week 11: [Parallel Programming 2](https://nyu-cds.github.io/python-mpi)
 
 [Assignment 11]({{ site.github.url }}/assignments/advanced-11/)
 
@@ -66,7 +66,7 @@ If you need a refresher on Python, please take a look at the
 
 [Assignment 12]({{ site.github.url }}/assignments/advanced-12/)
 
-### Weeks 13: GCUDA Programming With Numba
+### Weeks 13: CUDA Programming With Numba
 
 [Assignment 13]({{ site.github.url }}/assignments/advanced-13/)
 

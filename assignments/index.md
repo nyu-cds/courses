@@ -8,7 +8,7 @@ redirect_from:
 
 ### Programming with Python Assignments
 
-* [Assignment 1]()
+* Assignment 1
 
 ### Advanced Python Assignments
 
@@ -20,3 +20,5 @@ redirect_from:
 * [Assignment 6]({{ site.github.url }}/assignments/advanced-6)
 * [Assignment 7]({{ site.github.url }}/assignments/advanced-7)
 * [Assignment 8]({{ site.github.url }}/assignments/advanced-8)
+* Assignment 9
+* [Assignment 10]({{ site.github.url }}/assignments/advanced-10)

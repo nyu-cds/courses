@@ -1,6 +1,6 @@
 ---
 layout: exercise
-title: Message Passing 1
+title: Message Passing 2
 ---
 Write an MPI program that does the following for some arbitrary number of processes:
 

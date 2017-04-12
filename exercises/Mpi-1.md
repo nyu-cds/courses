@@ -1,6 +1,6 @@
 ---
 layout: exercise
-title: Message Passing 2
+title: Message Passing 1
 ---
 Write an MPI program in which the processes with even rank print "Hello" and the processes with odd rank print "Goodbye". Print the rank along with 
 the message (for example "Goodbye from process 3"). Hint: remember that although the number of processes is fixed when the program starts, 

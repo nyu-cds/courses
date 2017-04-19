@@ -2,8 +2,8 @@
 layout: exercise
 title: Message Passing 3
 ---
-Write a sorting algorithm which works in parallel with communication. The root process should generate a large data set, then slice it unto 
-bins by value and send each bin (save one) to another process to sort.  That process can utilize any appropriate method to sort the
+Write a sorting program which works in parallel with collective communication using `mpi4py`. The root process should generate a large data set (e.g. 10,000 elements), 
+then slice it unto  bins by value and send each bin (save one) to another process to sort.  That process can utilize any appropriate method to sort the
 data, then transmit the sorted data set back to the root process.  The data are now completely sorted when put in rank order.
     
 As an example, consider sorting this data set on four processors:
@@ -24,4 +24,6 @@ root will produce a completely sorted data set.
 Rank  |  0  0 | 1  1  1  1 | 2  2  2  2 | 3  3
 Data  |  2  2 | 3  3  4  5 | 6  7  7  8 | 9 11
         
-Call the program `mpi_assignment_3.py` and commit it to the same repository you used for Assignment 3. 
+The program must be well structured and follow good software engineering design principles. It must be adequately documented and include tests that 
+verify the key components of the program. Call the program `parallel_sorter.py` and place it in an `assignment11` directory along with the test code. 
+Commit the directory to the same repository you used for Assignment 3. 

@@ -2,9 +2,10 @@
 layout: exercise
 title: Message Passing 3
 ---
-Write a sorting program which works in parallel with collective communication using `mpi4py`. The root process should generate a large data set (e.g. 10,000 elements), 
-then slice it unto  bins by value and send each bin (save one) to another process to sort.  That process can utilize any appropriate method to sort the
-data, then transmit the sorted data set back to the root process.  The data are now completely sorted when put in rank order.
+Write a sorting program which works in parallel with collective communication using `mpi4py` for an arbitrary number of processes. The root process 
+should generate a large unsorted data set (e.g. 10,000 elements), then slice it into bins by value and send each bin (except one) to the other 
+processes to sort. You can utilize any appropriate method to sort the data. The sorted data should then be sent back to the root process and put 
+into rank order. The data should now be completely sorted.
     
 As an example, consider sorting this data set on four processors:
     

@@ -52,7 +52,7 @@ If you need a refresher on Python, please take a look at the
 
 ### Week 9: [Python Concurrency](https://nyu-cds.github.io/python-concurrency)
 
-[Assignment 9]({{ site.github.url }}/assignments/advanced-9/)
+Assignment 9 - No assignment this week
 
 ### Week 10: [Parallel Programming 1](https://nyu-cds.github.io/python-mpi)
 
@@ -62,14 +62,10 @@ If you need a refresher on Python, please take a look at the
 
 [Assignment 11]({{ site.github.url }}/assignments/advanced-11/)
 
-### Weeks 12: GPU Computing
+### Week 12: GPU Computing
 
 [Assignment 12]({{ site.github.url }}/assignments/advanced-12/)
 
-### Weeks 13: CUDA Programming With Numba
+### Week 13: CUDA Programming With Numba
 
 [Assignment 13]({{ site.github.url }}/assignments/advanced-13/)
-
-### Weeks 14: BigData with PySpark
-
-[Assignment 14]({{ site.github.url }}/assignments/advanced-14/)

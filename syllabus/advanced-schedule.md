@@ -62,10 +62,14 @@ Assignment 9 - No assignment this week
 
 [Assignment 11]({{ site.github.url }}/assignments/advanced-11/)
 
-### Week 12: GPU Computing
+### Week 12: [Python for GPUs](https://nyu-cds.github.io/python-gpu/)
+
+In addition, the following will be covered:
+
+* [CUDA Programming With Numba](https://nyu-cds.github.io/python-numba/05-cuda/)
 
 [Assignment 12]({{ site.github.url }}/assignments/advanced-12/)
 
-### Week 13: CUDA Programming With Numba
+### Week 13: [BigData with PySpark](https://nyu-cds.github.io/python-bigdata/)
 
 [Assignment 13]({{ site.github.url }}/assignments/advanced-13/)

@@ -7,7 +7,7 @@ The following program is the familar computation of the [Mandelbrot set](https:/
 
 ~~~
 #
-# Simple algorithm to calculate elements in the Mandelbrot set.
+# Simple Python program to calculate elements in the Mandelbrot set.
 #
 import numpy as np
 from pylab import imshow, show
@@ -29,9 +29,11 @@ def mandel(x, y, max_iters):
     
 def compute_mandel(min_x, max_x, min_y, max_y, image, iters):
 	'''
-	Calculate the mandel value for each element in the image array. The real
-	and image variables contain a value for each element of the complex space
-	defined by the X and Y boundaries (min_x, max_x) and (min_y, max_y).
+	Calculate the mandel value for each element in the 
+	image array. The real and imag variables contain a 
+	value for each element of the complex space defined 
+	by the X and Y boundaries (min_x, max_x) and 
+	(min_y, max_y).
 	'''
     height = image.shape[0]
     width = image.shape[1]
@@ -55,18 +57,21 @@ if __name__ == '__main__':
 
 The program works as follows:
 1. First, the `image` array is created with shape (1024, 1536) and initialized with zeros.
-2. The `compute_mandel` function is called which assigns a value in the range (-2.0 .. 1.0, -1.0 .. 1.0) to each element of the array.
+2. The `compute_mandel` function is called which assigns a value in the range 0 to 19 (`max_iters` - 1) to each element of the array.
 3. The array is then plotted.
 
-The `compute_mandel` function assigns a value to each element by:
-1. First calculating `pixel_size_x` and `pixel_size_y`. These correspond to the smallest value that 
-can be represented by each element (or pixel) in the array in the X and Y directions respectively.
-2. Iterating over each element of the array, and computing the `mandel` value that corresponds to the element.
+The `compute_mandel` function assigns a value to each element of the image array by:
+1. First calculating `pixel_size_x` and `pixel_size_y`. These correspond to the smallest increments that 
+can be represented by each element (or pixel) of the array in the ranges `min_x` .. `max_x` and `min_y` .. `max_y`respectively.
+2. Iterating over each element of the array, and computing the `mandel` value that corresponds to the (`real`, `imag`) value of that element. `real`
+and `imag` are used because you can think of the X and Y axes as the real and imaginary components of complex numbers.
 
-The `mandel` function works by testing how rapidly the function `z = z<sup>2</sup> + c` converges or diverges for a given value of `c = (x + yi)`.
+The `mandel` function works by testing how rapidly the function `z = z*z + c` converges or diverges for a given value of `c = complex(x,y)`.
 The value returned is the number of iterations (up to `max_iters`) it takes for the real and imaginary parts of `z` to reach the value 2 (no value
 greater than 2 can be part of the set). Faster divergence will result in a smaller number, slower divergence a larger number. A value within the
 set will return `max_iters`.
+
+Try running this program to make sure you are familiar with how it works.
 
 You are going to modify this program to work on a GPU using CUDA. You're going to use the same `mandel` function, except that for it to be usable
 with a CUDA kernel, you need to add the `@cuda.jit(device=True)` decorator. This tells CUDA that `mandel` is a *device function*, which is a function
@@ -76,7 +81,7 @@ become the CUDA kernel.
 Finally, you need to modify the `compute_mandel` function so that it can be used as a CUDA kernel. Remember that instead of iterating over every
 element of the array, your kernel will need to iterate over a smaller block of elements. The kernel will need to obtain the starting `x` and `y` 
 coordinates using `cuda.grid()` and then calculate the ending `x` and `y` coordinates by obtaining the size of the block using `gridDim` and `blockDim`. 
-Once you have starting and finishing `x` and `y` coordinates, you can compute the mandel value for each element of the block as before. 
+Once you have the starting and finishing `x` and `y` coordinates, you can compute the mandel value for each element of the block as before. 
 
 The final program should look like this (use `mandelbrot_gpu.py` for the file name):
 
